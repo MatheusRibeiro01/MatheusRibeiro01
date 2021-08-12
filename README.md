@@ -4,7 +4,7 @@
 - 🔭 Trabalho como desenvolvedor back-end .NET/Java mas também arranho um pouco no front-end com Angular/React.
 - 🌱 No momento estou aprofundando meu conhecimento no desenvolvimento de integrações e em padrões de projeto.
 - ⚡ Nas horas vagas eu gosto de tocar guitarra, ouvir música, assistir seriados e sair com os amigos.
-- 📫 Você pode me encontrar no LinkedIn através do link https://www.linkedin.com/in/matheus-ribeiro01
+- 📫 Você pode me encontrar no LinkedIn através do link: https://www.linkedin.com/in/matheus-ribeiro01/
 - 😄 Pronomes: Ele/Dele
 
 <div>
@@ -22,9 +22,7 @@
 </div>
   
   ##
-  
 <div> 
-  <a href="https://www.linkedin.com/in/matheus-ribeiro01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/MatheusRibeiro01/MatheusRibeiro01/blob/output/github-contribution-grid-snake.svg)
 </div>
