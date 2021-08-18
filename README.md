@@ -1,4 +1,4 @@
-## Oi, eu sou o Goku! 👋 Brincadeirinha kkk, meu nome é Matheus.
+## Olá!! Meu nome é Matheus.
 ### 
 
 - 🔭 Trabalho como desenvolvedor back-end .NET/Java mas também arranho um pouco no front-end com Angular/React.
