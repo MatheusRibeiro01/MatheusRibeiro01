@@ -1,7 +1,7 @@
 ## Olá!! Meu nome é Matheus.
 ### 
 
-- 🔭 Trabalho como desenvolvedor back-end .NET/Java mas também arranho um pouco no front-end com Angular/React.
+- 🔭 Trabalho como desenvolvedor back-end .NET/Java mas também arranho um pouco no front-end com Angular.
 - 🌱 No momento estou aprofundando meu conhecimento no desenvolvimento de integrações e em padrões de projeto.
 - ⚡ Nas horas vagas eu gosto de tocar guitarra, ouvir música, e assistir seriados.
 - 📫 Você pode me encontrar no LinkedIn através do link: https://www.linkedin.com/in/matheus-ribeiro01/
